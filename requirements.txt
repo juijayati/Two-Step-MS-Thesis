@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+tensorflow
+glob
+librosa
+soundfile
+scikits
+sklearn
+pydub
+scipy
+keras
+
+
+
